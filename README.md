@@ -18,7 +18,9 @@ Edutech Ethusiast, I am always game for any solutions that will improve the way 
 
 ## 📫 How to reach me:
 GitHub: [@githubhandle](https://github.com/BonkeGcobo)
+
 Twitter: [@twitterhandle](https://twitter.com/bonke_gcobo)
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bonke-gcobo-28a763125/)
 
 
