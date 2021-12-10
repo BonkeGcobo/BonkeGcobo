@@ -1,4 +1,4 @@
-![screenshot](./Banner.png width=100%)
+![screenshot](./Banner.png)
 
 
 ### 🔭  I’m currently working on 
