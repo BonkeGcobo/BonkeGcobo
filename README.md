@@ -1,5 +1,7 @@
 ![screenshot](./Banner.png)
 
+I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile
+
 
 ## 🔭  I’m currently working on 
 Currently working on todo-list web app, I am using JavaScript(ES6) to do this.
