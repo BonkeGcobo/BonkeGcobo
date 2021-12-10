@@ -5,6 +5,7 @@ I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Sta
 
 
 [![Bonke's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonkeGcobo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonkeGcobo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
