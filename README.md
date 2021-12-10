@@ -3,6 +3,15 @@
 I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 ## 🔭  I’m currently working on 
 Currently working on todo-list web app, I am using JavaScript(ES6) to do this.
 
