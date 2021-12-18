@@ -1,6 +1,7 @@
 ![screenshot](./Banner.png)
 
-I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile
+I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile.
+
 Email : bonkegcobo291195@gmail.com
 
 
