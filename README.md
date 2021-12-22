@@ -18,7 +18,7 @@ Email : bonkegcobo291195@gmail.com
 
 
 ## 🔭  I’m currently working on 
-Currently working on todo-list web app, I am using JavaScript(ES6) to do this.
+Currently working on a leaderboard app, we will use the leaderboard api to do this.
 
 
 
