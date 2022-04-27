@@ -5,7 +5,8 @@
 I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile.
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+## Visit Counters
+![Visitor Count](https://profile-counter.glitch.me/{BonkeGcobo}/count.svg)
 
 Email : bonkegcobo291195@gmail.com
 
