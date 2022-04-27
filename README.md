@@ -5,6 +5,7 @@
 I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile.
 
 
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 Email : bonkegcobo291195@gmail.com
 
@@ -27,7 +28,7 @@ Currently working on a leaderboard app, we will use the leaderboard api to do th
 
 
 ## 🌱 I’m currently learning  
-Currently in my journey to be a full stack web developer, at the moment I am learning JavaScript, during my spare time I play around with python.
+Currently in my journey to be a full stack web developer, at the moment I am ruby and databases
 
 
 
