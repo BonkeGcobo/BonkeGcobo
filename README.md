@@ -2,7 +2,7 @@
 
 ![screenshot](./Banner.png)
 
-I am Bonke Gcobo, currently student at Microverse, I am in a journey to Full Stack Web-Developer, welcome to my github profile.
+Software Developer from Cape Town, I love coding and statistics
 
 
 ## Visit Counters
