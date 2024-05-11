@@ -2,7 +2,7 @@
 
 ![screenshot](./Banner.png)
 
-Software Developer from Cape Town, I love coding and statistics
+Software Developer from Cape Town
 
 
 ## Visit Counters
@@ -24,18 +24,14 @@ Email : bonkegcobo291195@gmail.com
 
 
 ## 🔭  I’m currently working on 
-Currently working on a leaderboard app, we will use the leaderboard api to do this.
+Nothing at the moment, spending my time doing freelance work providing my expertise in React, javascript, api-integration
 
 
 
 ## 🌱 I’m currently learning  
-Currently in my journey to be a full stack web developer, at the moment I am ruby and databases
+Working on developing my backend skills with boot.dev
 
 
-
-## 👯 I’m looking to collaborate on 
-I am willing to collaborate on projects which are done with JS, as a way to consolidate my js knowledge and building a wider network with other developers.
-Edutech Ethusiast, I am always game for any solutions that will improve the way we recieve education in our society.
 
 
 ## 📫 How to reach me:
@@ -48,5 +44,5 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/bonke-gcobo-28a763125/)
 
 ### 😄 Pronouns: (HE, HIM)
 
-### ⚡ Fun fact: I think better after a cup of coffee, and a chocolate Muffin 😄
+### ⚡ Fun fact: I think better after a cup of coffee 😄
 
